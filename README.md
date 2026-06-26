@@ -2,6 +2,8 @@
 
 Este repositório contém a modelagem, análise e síntese de um Sistema de Eventos Discretos (SED) para o controle de locomoção e execução de tarefas de dois humanoides autônomos que realizam tarefas em um armazém. O projeto foi desenvolvido utilizando a Teoria de Controle Supervisório através do software **Supremica**.
 
+Veja o vídeo gravado explicando o sistema [aqui](https://drive.google.com/drive/folders/1eUcm5swgOXOCwMUgZOkpGm4N9fe7BDnC?usp=sharing).
+
 ## Contexto do Sistema
 
 O ambiente modelado neste projeto baseia-se em um armazém de produção automatizado. Neste ambiente, operam dois Robôs Humanóides, identificados como Robô 1 e Robô 2, que trabalham de maneira independentemente e 100% autônoma.
