@@ -54,7 +54,7 @@ Autômato fiscal que restringe o uso do carregador.
 
 ---
 
-## 🧠 Síntese do Supervisor
+## Síntese do Supervisor
 
 O sistema puro, quando analisado isoladamente, entra em estado de **Blocking** (bloqueio), pois a física permite que os robôs continuem aceitando tarefas até a bateria zerar.
 
